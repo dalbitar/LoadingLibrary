@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Program Files\adt-bundle-windows-x86_64-20140624\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\tarek.SSDEV\AndroidStudioProjects\LoadingLibrary\demo\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-f6c6cd5656ab40a0389b8513759d9511aa9a2375.jar" />
+    </item>
+    <item
+        jar="C:\Users\tarek.SSDEV\AndroidStudioProjects\LoadingLibrary\demo\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\tarek.SSDEV\AndroidStudioProjects\LoadingLibrary\demo\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-edb0efbc7e6648e8f98aa0a20208fb5cba1852ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\tarek.SSDEV\AndroidStudioProjects\LoadingLibrary\demo\build\intermediates\exploded-aar\LoadingLibrary\loadingLibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c24716e52a25ce6d2fd26e9711fbe55c1852463b">
+        <dex dex="C:\Users\tarek.SSDEV\AndroidStudioProjects\LoadingLibrary\demo\build\intermediates\pre-dexed\debug\classes-c459dde55f1b151b7e68cc7e068a5423f941f335.jar" />
+    </item>
+    <item
+        jar="C:\Users\tarek.SSDEV\AndroidStudioProjects\LoadingLibrary\demo\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\tarek.SSDEV\AndroidStudioProjects\LoadingLibrary\demo\build\intermediates\pre-dexed\debug\classes-a2fdf449ef69e6e256d331d555a6276778434786.jar" />
+    </item>
+
+</items>
