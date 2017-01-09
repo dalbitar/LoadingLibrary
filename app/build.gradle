@@ -19,4 +19,7 @@ android {
 
 dependencies {
     compile 'com.android.support:support-v4:21.0.3'
+    def mobileCenterSdkVersion = '0.3.3'
+    compile "com.microsoft.azure.mobile:mobile-center-analytics:${mobileCenterSdkVersion}"
+    compile "com.microsoft.azure.mobile:mobile-center-crashes:${mobileCenterSdkVersion}"
 }
